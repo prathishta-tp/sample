@@ -1,0 +1,102 @@
+<!--<!DOCTYPE html>
+<html>
+    <head>
+        <style >
+         
+    
+
+            .button {
+              padding: 15px 25px;
+              font-size: 24px;
+              text-align: center;
+              cursor: pointer;
+              outline: none;
+              color: #fff;
+              background-color: #4CAF50;
+              border: none;
+              border-radius: 15px;
+              box-shadow: 0 9px #999;
+            }
+            
+            .button:hover {background-color: #3e8e41}
+            
+            .button:active {
+              background-color: #3e8e41;
+              box-shadow: 0 5px #666;
+              transform: translateY(4px);
+
+              
+            }
+            
+            </style>
+    </head>
+<body>
+
+<h2>Choose faculty and Course</h2>
+<b>FACULTY</b>
+
+<form style="background:url(C:\Users\hp\Documents\12wed\1.jpg);" action="/feedback">
+  <select name="BATCH">
+    <option value="A">Batch1</option>
+    <option value="B">Batch2</option>
+    <option value="C">Batch3</option>
+    <option value="D">Batch4</option>
+  </select>
+  <br><br>
+   <b>COURSE</b>
+   <br>
+  <select name="Course">
+    <option value="L">.net</option>
+    <option value="M">JAVA</option>
+    <option value="N">Python</option>
+    <option value="O">C#</option>
+  </select>
+  <br><br>
+  <button href="/feedback" class="button">Submit</button>
+
+
+</form>
+
+</body>
+</html>-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+  <style>
+    body{background-image: url(assets/images/bc1.jpg);height:1000px;}
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h2 >Prakara-1</h2>
+  <b>The form below contains two dropdown menus (select lists):</b>
+  <form action="/feedback">
+    <div class="form-group">
+      <label for="sel1">Select Batch:</label>
+      <select class="form-control" id="sel1" name="sellist1">
+        <option>Batch1</option>
+        <option>Batch2</option>
+        <option>Batch3</option>
+        <option>Batch4</option>
+      </select>
+      <br>
+      <label for="sel2">Select Course:</label>
+      <select multiple class="form-control" id="sel2" name="sellist2">
+        <option>.Net</option>
+        <option>JAVA</option>
+        <option>Python</option>
+        <option>C#</option>
+        
+      </select>
+    </div>
+    <button href="/feedback" class="btn btn-primary">Submit</button>
+  </form>
+</div>
