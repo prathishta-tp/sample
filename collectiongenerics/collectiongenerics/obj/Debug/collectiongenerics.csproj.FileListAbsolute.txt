@@ -1,0 +1,6 @@
+C:\Workarea\charp\collectiongenerics\collectiongenerics\bin\Debug\collectiongenerics.exe.config
+C:\Workarea\charp\collectiongenerics\collectiongenerics\bin\Debug\collectiongenerics.exe
+C:\Workarea\charp\collectiongenerics\collectiongenerics\bin\Debug\collectiongenerics.pdb
+C:\Workarea\charp\collectiongenerics\collectiongenerics\obj\Debug\collectiongenerics.csprojResolveAssemblyReference.cache
+C:\Workarea\charp\collectiongenerics\collectiongenerics\obj\Debug\collectiongenerics.exe
+C:\Workarea\charp\collectiongenerics\collectiongenerics\obj\Debug\collectiongenerics.pdb
