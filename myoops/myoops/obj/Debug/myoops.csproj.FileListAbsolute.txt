@@ -1,0 +1,6 @@
+c:\workarea\charp\myoops\myoops\bin\Debug\myoops.exe.config
+c:\workarea\charp\myoops\myoops\obj\Debug\myoops.csprojResolveAssemblyReference.cache
+c:\workarea\charp\myoops\myoops\bin\Debug\myoops.exe
+c:\workarea\charp\myoops\myoops\bin\Debug\myoops.pdb
+c:\workarea\charp\myoops\myoops\obj\Debug\myoops.exe
+c:\workarea\charp\myoops\myoops\obj\Debug\myoops.pdb

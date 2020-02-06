@@ -1,0 +1,6 @@
+C:\Workarea\charp\MyAdo\MyAdo\bin\Debug\MyAdo.exe.config
+C:\Workarea\charp\MyAdo\MyAdo\bin\Debug\MyAdo.exe
+C:\Workarea\charp\MyAdo\MyAdo\bin\Debug\MyAdo.pdb
+C:\Workarea\charp\MyAdo\MyAdo\obj\Debug\MyAdo.csprojResolveAssemblyReference.cache
+C:\Workarea\charp\MyAdo\MyAdo\obj\Debug\MyAdo.exe
+C:\Workarea\charp\MyAdo\MyAdo\obj\Debug\MyAdo.pdb
